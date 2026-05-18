@@ -1,0 +1,29 @@
+{
+  "package_format": 2,
+  "id": "render",
+  "slug": "render",
+  "name": "Render",
+  "version": "0.1.1",
+  "visibility": "private",
+  "tags": [],
+  "target_url": "https://dashboard.render.com/login",
+  "protected_url": "https://dashboard.render.com",
+  "protected_url_vars": [],
+  "auth_requirements": {
+    "kind": "cookie",
+    "manual_login": true
+  },
+  "skills": [
+    {
+      "slug": "delete-a-service-66f54268",
+      "path": "skills/delete-a-service-66f54268"
+    }
+  ],
+  "runtime_min_version": "1.0.0",
+  "compatibility": {
+    "conxa_runtime": ">=1.0.0"
+  },
+  "metadata": {
+    "repository": "https://github.com/cannonboldoff-hue/render"
+  }
+}
